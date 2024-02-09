@@ -1,8 +1,1 @@
-/**
- * 
- */
-/**
- * 
- */
-module asasas {
-}
+ asdadadsdad}
